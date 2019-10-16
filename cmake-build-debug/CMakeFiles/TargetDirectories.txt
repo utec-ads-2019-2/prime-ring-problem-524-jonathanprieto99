@@ -1,0 +1,3 @@
+/Users/jonathanprieto/Documents/GitHub/prime-ring-problem-524-jonathanprieto99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonathanprieto/Documents/GitHub/prime-ring-problem-524-jonathanprieto99/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonathanprieto/Documents/GitHub/prime-ring-problem-524-jonathanprieto99/cmake-build-debug/CMakeFiles/prime-ring-problem-524-jonathanprieto99.dir
